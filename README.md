@@ -59,7 +59,7 @@ Crear una base de datos vacía en PostgreSQL. Hibernate se encargará de generar
 ```text
 CREATE DATABASE farmacia_db;
 ```
-Se incuye para propósito de pruebas el script `farmacia_db.sql` que se encuentra en la carpeta `src/main/resources`. Mediante el cual se puede revisar el contenido de la base de datos utilizada durante el desarrollo.
+Se incuye para propósito de pruebas el script `farmacia_db.sql` que se encuentra en la carpeta raiz. Mediante el cual se puede revisar el contenido de la base de datos utilizada durante el desarrollo.
 
 ### 3. Configuración de Credenciales
 
@@ -80,5 +80,5 @@ También puedes ejecutar el archivo `farmacia.jar` que se encuentra en el direct
 
 # Autor
 
-### Jonathan Aguirre - Desarrollo inicial e implementación de persistencia
+### Jonathan Aguirre
 ### Universidad Politécnica Salesiana
